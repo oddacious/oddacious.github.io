@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="citation">
+        <p>
+        {% if page.header-img-title %}
+            Image is
+            {% if page.header-img-link %} <a href="{{page.header-img-link}}">{{page.header-img-title}}</a>
+            {% else %}{{page.header-img-title}}
+            {% endif %}
+        {% endif %}
+        {% if page.header-img-author %} 
+            by
+            {% if page.header-img-author-link %} <a href="{{page.header-img-author-link}}">{{page.header-img-author}}</a> 
+            {% else %} {{page.header-img-author}} 
+            {% endif %} 
+        {% endif %}
+        {% if page.header-img-license %}
+            used under license 
+            {% if page.header-img-license-link %} <a href="{{page.header-img-license-link}}">{{page.header-img-license}}</a> 
+            {% else %} {{page.header-img-license}} 
+            {% endif %} 
+        {% endif %}
+        </p>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content }}
+
+                <hr>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
