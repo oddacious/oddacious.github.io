@@ -4,8 +4,8 @@ header-img: img/barbados.jpg
 email: your-email@yourdomain.com
 description: "Collecting my notes on sports analytics and other assorted topics"
 baseurl: ""
-url: "localhost:4000"
-host: 0.0.0.0
+url: https://oddacious.github.io
+#host: 0.0.0.0
 twitter_username: 
 github_username: 
 facebook_username:
