@@ -13,6 +13,11 @@ description: "Collecting my notes on sports analytics and other assorted topics"
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        {% if post.description %}
+        <blockquote>
+            {{ post.description }}
+        </blockquote>
+        {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
