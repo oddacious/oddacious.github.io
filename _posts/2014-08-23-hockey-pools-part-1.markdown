@@ -28,7 +28,12 @@ That's how Ren&eacute; recruited me. I'd never been in a hockey pool before. Not
 
 ![I'm in trouble]({{ site.baseurl }}/img/NHL3.jpg){: .center-image }
 <span class="caption text-muted">Not so much.</span>
-<div class="citation"><p><a href="https://www.flickr.com/photos/dugspr/2355994458/in/album-72157604216116798/">Image</a> from <a href="https://www.flickr.com/photos/dugspr/">Douglas Sprott</a> used under licence <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC</a></p></div>
+
+<div class="citation">
+<p>
+<a href="https://www.flickr.com/photos/dugspr/2355994458/in/album-72157604216116798/">Image</a> from <a href="https://www.flickr.com/photos/dugspr/">Douglas Sprott</a> used under licence <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC</a>
+</p>
+</div>
 
 I had no idea what I was doing. Halfway through the season I was mired near the bottom, way ahead of the absentee players (and probably Ren&eacute; too – sorry bud), but far behind the leaders and with no plan of how to catch up. That's when I decided _**it's time to get good at this**_. This is the story of how it happened.
 
