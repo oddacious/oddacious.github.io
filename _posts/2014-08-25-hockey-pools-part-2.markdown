@@ -42,7 +42,11 @@ Now I can fill in a few more details about my season. How did I, a novice, appro
 
 ![Peaches]({{ site.baseurl }}/img/sakura_peach.jpg){: .center-image }
 <span class="caption text-muted">Excuses are like peaches, everyone has one</span>
-<div class="citation"><p><a href="https://www.flickr.com/photos/sakura_chihaya/2728211684/">Image</a> from <a href="https://www.flickr.com/photos/sakura_chihaya/">sakura_chihaya+</a> used under licence <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND</a></p></div>
+<div class="citation">
+<p>
+<a href="https://www.flickr.com/photos/sakura_chihaya/2728211684/">Image</a> from <a href="https://www.flickr.com/photos/sakura_chihaya/">sakura_chihaya+</a> used under licence <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND</a>
+</p>
+</div>
 
 If you're not present during the draft, you can either set a ranking beforehand (I didn't) or let the website (in this case, Yahoo) autodraft for you. Yahoo has a default set of player rankings. It's common knowledge that autodrafting is disastrous. 
 
