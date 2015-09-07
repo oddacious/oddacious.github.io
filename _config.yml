@@ -1,7 +1,7 @@
 # Site settings
 title: Oddacious
 header-img: img/barbados.jpg
-email: your-email@yourdomain.com
+email: fumble.to.victory@gmail.com
 description: "Collecting my notes on sports analytics and other assorted topics"
 baseurl: ""
 url: https://oddacious.github.io
@@ -9,6 +9,7 @@ url: https://oddacious.github.io
 twitter_username: 
 github_username: 
 facebook_username:
+
 
 # Build settings
 markdown: kramdown
@@ -18,3 +19,7 @@ permalink: /:title
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","mail","contact.html"]
 include: [".htaccess"]
+
+gems:
+    - jekyll-sitemap
+
