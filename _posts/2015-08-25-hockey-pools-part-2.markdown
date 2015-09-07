@@ -5,7 +5,7 @@ subtitle:   "Hockey Pool Part 2: From the draft through the playoffs"
 categories: ["hockey pool"]
 description: " My season turned around when I figured out that I really wasn't playing the game. I wasn't taking advantage of simple tactical moves that would help me win categories, at no cost. When I awoke to this and started playing, along with making a couple of trades to balance out my roster, things started looking up."
 tags:       ["hockey", "hockey pool", "analytics"]
-date:       2014-08-25 12:00:00
+date:       2015-08-25 12:00:00
 author:     "RDJ"
 header-img: "img/artcore3.jpg"
 header-img-title: "Lines'n'Drips"

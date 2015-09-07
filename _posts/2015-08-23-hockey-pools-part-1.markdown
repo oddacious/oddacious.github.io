@@ -6,7 +6,7 @@ categories: ["hockey pool"]
 description: "
 I'd never been in a hockey pool before. Not a real one. I had done a couple of simple ones, with Ren&eacute; and other classmates, but those were pick-em-and-leave-em. That was by design. We all wanted to focus on grad school (and drinking – two non-mutually exclusive concepts) and didn't want the winner to be the person who slacked off on studying the most. Most of my effort then was drafting. I played with no bench, no lineup changes, no trades. Now I was invited to a real pool. How was that going to work out?" 
 tags:       ["hockey", "hockey pool", "analytics", "predictive modeling", "simulation", "optimization"]
-date:       2014-08-23 12:00:00
+date:       2015-08-23 12:00:00
 author:     "RDJ"
 header-img: "img/lawnchairs.jpg"
 header-img-title: "Lawn Chairs"
