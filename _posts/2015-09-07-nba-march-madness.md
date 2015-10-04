@@ -153,7 +153,7 @@ There you have it. That's my proposal. I think it would accomplish a few things:
 
 - Create an incredibly fun and wild NBA tournament to kick off the season
 - Bring NBA exposure to more cities and markets 
-- Incentive every year to do well, through
+- Incent every team to do well, because:
     - The games count towards their record
     - Winning creates rest time late in the season
     - Winning increases your share of the profits
