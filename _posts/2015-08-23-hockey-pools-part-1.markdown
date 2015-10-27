@@ -52,11 +52,17 @@ Hockey: A beautiful friction-defying game whose players push a sliding piece of 
 In a hockey pool, you have a team. In my hockey pool, each team consists of up to 16 players. For example, [Henrik Lundqvist][lundqvist], the stud goaltender on the New York Rangers, is on my team. This means he's not simultaneously on any other team – he's just on my team. Henrik Lundqvist is a real person, but in our league he is on my team and my team alone. I'm lucky to have him and gave up the opportunity to have another great player in his place. My team has an eclectic selection of hockey players across all positions, as does every other team. Although there will probably be changes to your team over the season, you make them at your discretion. I never have to lose Lundqvist if I don't want to (and I really don't want to).
 
 ![Henrik Lundqvist]({{ site.baseurl }}/img/clyde 2.jpg){: .center-image }
+
 <span class="caption text-muted">You're my boy, Blue!</span>
+
 <div class="citation">
+
 <p>
+
 <a href="https://www.flickr.com/photos/clydeorama/5618716532/">Image</a> from <a href="https://www.flickr.com/photos/clydeorama">clyde</a> used under licence <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC</a>
+
 </p>
+
 </div>
 
 What do you do with these players? You insert them into your lineup and face other teams. What I describe below is a “category” style of league. There are other types of hockey pools, and they all can configure specific rules, but this is how mine worked. In any given week during the hockey pool season, my team is going head-to-head with a specific opponent's team, in what we call a match-up. In our match-up we are fighting over 14 categories of performance: 

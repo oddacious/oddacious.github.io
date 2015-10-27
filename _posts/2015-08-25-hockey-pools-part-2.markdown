@@ -21,7 +21,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 [leafs3]: http://mapleleafs.nhl.com/club/page.htm?id=42188 "The 1980's"
 [degroot]: https://en.wikipedia.org/wiki/Adriaan_de_Groot "Wikipedia: Adriaan de Groot"
 [kramnik]: http://en.chessbase.com/post/how-could-kramnik-overlook-the-mate- "Looking at the date on this ChessBase article, I feel incredibly old"
-[rumsfield]: https://en.wikipedia.org/wiki/There_are_known_knowns "Wikipedia: 'There are known knowns'"
+[rumsfeld]: https://en.wikipedia.org/wiki/There_are_known_knowns "Wikipedia: 'There are known knowns'"
 [ageing]: http://www.sbnation.com/nhl/2014/3/13/5500522/nhl-scoring-stats-rates-age-analysis "SBNation: NHL age curve"
 [brodeur]: http://www.rantsports.com/nhl/2015/01/25/martin-brodeurs-stint-with-st-louis-blues-was-pointless/ "RankSports: Martin Brodeur’s Stint With St. Louis Blues Was Pointless"
 [goalies]: http://wagesofwins.com/2011/07/19/your-nhl-goalie-doesnt-matter/ "Wages of Wins: Your NHL Goalie doesn't matter (much)!"
@@ -42,11 +42,17 @@ Most of my writing will be about draft strategy, even though there are so many o
 Now I can fill in a few more details about my season. How did I, a novice, approach the draft? In perhaps the least interesting way possible: I didn't. I didn't even show up. I had a good reason not to – I was travelling for work. 
 
 ![Peaches]({{ site.baseurl }}/img/sakura_peach.jpg){: .center-image }
+
 <span class="caption text-muted">Excuses are like peaches, everyone has one</span>
+
 <div class="citation">
+
 <p>
+
 <a href="https://www.flickr.com/photos/sakura_chihaya/2728211684/">Image</a> from <a href="https://www.flickr.com/photos/sakura_chihaya/">sakura_chihaya+</a> used under licence <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND</a>
+
 </p>
+
 </div>
 
 If you're not present during the draft, you can either set a ranking beforehand (I didn't) or let the website (in this case, Yahoo) autodraft for you. Yahoo has a default set of player rankings. It's common knowledge that autodrafting is disastrous. 
@@ -104,7 +110,7 @@ My first step had to be to learn the game. When I started, I made a list of note
 * Value of likely keepers
 * Value of draft picks
 
-Of course, to borrow Donald Rumsfield's terminology, that's just the [known unknowns][rumsfield]. There were a lot of unknown unknowns, hopefully many of which I have now turned into known unknowns or even known knowns. 
+Of course, to borrow Donald Rumsfeld's terminology, that's just the [known unknowns][rumsfeld]. There were a lot of unknown unknowns, hopefully many of which I have now turned into known unknowns or even known knowns. 
 
 My first instinct was to jump into predicting, because prediction is my safe place. I could predict how many goals, assists, hits, blocks, etc., each player would have in the season. Ultimately (spoiler alert!) I would do this. But that's not enough. Will predicting these things truly tell me which players I should have on my team? I still needed to understand line-ups. I needed to figure out the relative value of different point categories. For example, a goal is worth more than a hit because there are less of them – but then again, hits are more consistent and predictable... 
 
