@@ -110,11 +110,17 @@ The *drafter* class has some constraints. A *drafter* will fill out his team, wi
 There are two players who are particularly advantageous to have because of this: [Dustin Byfuglien][byfuglien] and [Brent Burns][burns]. They can fit it in as defencemen and also as wingers. Byfuglien in particular has had seasons where he's picked up a lot of points as a winger, yet can be used as a defenceman in your lineup to get another forward in. There's a value in lineup flexibility.
 
 ![Silly Byfuglien]({{ site.baseurl }}/img/jakarachuonyo 2.jpg){: .center-image }
+
 <span class="caption text-muted">Yes, this guy</span>
+
 <div class="citation">
+
 <p>
+
 <a href="https://www.flickr.com/photos/fredrege/5300978462/">5 for joking</a> from <a href="https://www.flickr.com/photos/fredrege/">jakarachuonyo</a> used under licence <a href="https://creativecommons.org/licenses/by/2.0/">CC BY</a>
+
 </p>
+
 </div>
 
 The *drafter* class confirms that a player can fit into the team, that you can allocate him into the existing line-up without having an extra player who cannot fit into his position nor be added into the two bench spots (because they are already filled). This is done with a bit of logic, but it also (in my case) involves the ugliness of hardcoding which players are valid at which extra positions.
