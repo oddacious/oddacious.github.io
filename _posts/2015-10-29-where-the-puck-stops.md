@@ -3,8 +3,9 @@ layout:     post
 title:      "Where the Puck Stops"
 subtitle:   "New techniques for evaluating goaltenders in hockey"
 categories: ["hockey"]
-description: ""
-tags:       ["hockey", "NHL", "draft"]
+description: "Is Steve Mason really the top goalie in the NHL? I’m going to take my shot (shot, get it?) at this
+question, building upon existing methods. But before I go into that, let me break down why this is worth looking into."
+tags:       ["hockey", "NHL"]
 date:       2015-10-29 12:00:00
 author:     "RDJ"
 header-img: "img/noise_med.jpg"
@@ -49,7 +50,7 @@ think it's safe to say we got the most out of our Rochester experience.
 
 </div>
 
-What do people do at a HAC? We sit in a big room and listen to talks. [Micha Blake McCurdy][MBM] had a brilliant analytical foray into zone starts, [David Johnson][David Johnson] made
+What do people do at a HAC? We sit in a big room and listen to talks. [Micah Blake McCurdy][MBM] had a brilliant analytical foray into zone starts, [David Johnson][David Johnson] made
 a compelling argument about the consistency of competing metrics, Matthew Coller was immensely entertaining, and lots of other
 curious and creative minds shared their research and contributed to a great event.
 
