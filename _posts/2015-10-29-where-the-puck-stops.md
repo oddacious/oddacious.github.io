@@ -100,7 +100,7 @@ much lower GAA.
 
 </div>
 
-Now the general media uses save percentage, which is the percentage of shots (which in hockey parlance exclude blocks by oher players) that
+Now the general media uses save percentage, which is the percentage of shots (which in hockey parlance exclude blocks by other players) that
 a goalie stops. This should be a better metric of how well the goalie protects his net against shots directed at him.
 Save percentage is not quite as easy to visualize as GAA, but it has the advantage that it controls for shot counts.
 However, there are still issues. Perhaps some shots are tougher to stop than others. For example, if powerplay shots are
@@ -147,10 +147,10 @@ are two reasons why I want to find a way to include this:
 We can easily make the case that shorthanded shots are tougher, by breaking down save percentages into situation and
 difficulty. 
 
-| Situation     | Save % Low | Save % Medium | Save % High |
-| ------------- | ---------- | ------------- | ----------- |
-| Even Strength | 97.4%      | 92.8%         | 82.5%       |
-| Shorthanded   | 93.7%      | 87.7%         | 77.3%       |
+| Situation     | Save % Easy | Save % Medium | Save % Hard |
+| ------------- | ----------- | ------------- | ----------- |
+| Even Strength | 97.4%       | 92.8%         | 82.5%       |
+| Shorthanded   | 93.7%       | 87.7%         | 77.3%       |
 
 How do we incorporate shorthanded shots into our analysis? We don't want to look at them separately. We want to get at
 just one number, something simple that we can look at to totally and naively judge all of the outstanding athletes who
@@ -327,7 +327,7 @@ limitations with this.
 
 So when I do that with 5v5, 4v4, shorthanded, and powerplay shots, how does it work?
 
-Pretty well, I think! It totally depends on how much weighting we give to the prior. By putting a relatively high weight
+Pretty well, I think! It totally depends on how much weight we give to the prior. By putting a relatively high weight
 on the prior I'm limiting the effect of other categories plus muting the resulting actual number, which probably
 should not be taken literally unless the prior was more intelligently grounded. 
 
