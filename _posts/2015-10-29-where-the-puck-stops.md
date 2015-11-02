@@ -137,7 +137,7 @@ Take a look at the below graph. This is the aggregate shot-faced distribution.
 ![Shot distribution]({{ site.baseurl }}/img/shot_distribution.png){: .center-image }
 <span class="caption text-muted">Shorthanded shots are very substantial</span>
 
-See that mass of yellow? Those are shots faced when shorthanded, when your team is playing at a disadventage. There
+See that mass of yellow? Those are shots faced when shorthanded, when your team is playing at a disadvantage. There
 are two reasons why I want to find a way to include this:
 
 1. This gives us more data.
