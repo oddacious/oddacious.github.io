@@ -22,3 +22,12 @@ Basketball:
 * [{% if post.subtitle %} {{ post.subtitle }} {% else %} {{post.title}} {% endif %}]({{ post.url }})
     {% endif %}
 {% endfor %}
+
+Other:
+
+{% for post in site.posts reversed %}
+    {% unless post.categories contains 'basketball' or post.categories contains 'hockey pool' %}
+* [{% if post.subtitle %} {{ post.subtitle }} {% else %} {{post.title}} {% endif %}]({{ post.url }})
+    {% endunless %}
+{% endfor %}
+
