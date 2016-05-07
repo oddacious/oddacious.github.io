@@ -3,8 +3,8 @@ layout:     post
 title:      "30 days in San Francisco's Mission, in living colour"
 subtitle:   "A visual tour of my first month in SF"
 categories: []
-description: "Venmo advises that 'if you have a Venmo account, we'll send you a password reset link that you can use to sign into
-Venmo!' The first six words are redundant."
+description: "My vantage point has to begin with the Mission, the geographic and social centre of my experience thus
+far. This is where I live, the focal point from which I visit the rest of the city and region."
 tags:       ["tech"]
 date:       2016-05-06 12:00:00
 author:     "RDJ"
