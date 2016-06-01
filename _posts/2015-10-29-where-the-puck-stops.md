@@ -2,7 +2,7 @@
 layout:     post
 title:      "Where the Puck Stops"
 subtitle:   "New techniques for evaluating goaltenders in hockey"
-categories: ["hockey"]
+categories: ["hockey", "goalies"]
 description: "Is Steve Mason really the top goalie in the NHL? I’m going to take my shot (shot, get it?) at this
 question, building upon existing methods. But before I go into that, let me break down why this is worth looking into."
 tags:       ["hockey", "NHL"]
