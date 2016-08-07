@@ -2,6 +2,7 @@
 layout:     post
 title:      "Looking to Year 2"
 subtitle:   "Hockey Pool Part 3: Models and draft strategy"
+article-type: "long"
 categories: ["hockey pool"]
 description: "So let's talk a little bit about another drafter child, the simul_drafter (or “Sim” for short), and how I designed her. Sim can, at each pick, simulate the rest of the draft. Then Sim calculates how far ahead or behind our resulting team is, by our team-level metric, versus the best other team (I could compare against average, but really I want to be able to beat the next best team). If I do this across a selection of players, I can figure out which one resulted in the best overall pick." 
 tags:       ["hockey", "hockey pool", "analytics", "R programming", "predictive modeling", "LASSO", "simulation", "optimization"]

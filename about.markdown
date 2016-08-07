@@ -3,6 +3,7 @@ layout: page
 title: "About"
 description: "Now that I'm old enough to forget things, I better write them down."
 header-img: "img/feast.jpg"
+order: 4
 ---
 
 [Jekyll]: http://jekyllrb.com/ "Jekyll"
@@ -42,9 +43,9 @@ Photographs on the main pages are my own, and are from:
 
 
 * **Home**: The boardwalk along Barbados' southwest coast, in Hastings
-* **About**: Meal with friends on a patio in Lisbon, while we looked over the city at the end of St. Anthony's festival
 * **Articles**: The Three Sisters in Australia's Blue Mountains. After this photo I hiked around them and down into the
-  valley
+* **Snippets**: Point Sur off of California's coast, from Highway 1
 * **Knowledge**: A garden in the middle of Tokyo
+* **About**: Meal with friends on a patio in Lisbon, while we looked over the city at the end of St. Anthony's festival
 
 Other photographs will be cited on the pages used.

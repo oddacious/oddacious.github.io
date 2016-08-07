@@ -2,6 +2,7 @@
 layout:     post
 title:      "Man Down"
 subtitle:   "Should we consider shorthanded stats when evaluating goalies?"
+article-type: "long"
 categories: ["hockey", "goalies"]
 description: "For anyone hoping that this post has some connection with the Rihanna song, let 
 me just send you to the Youtube link now and we can avoid some impending disappointment."

@@ -2,6 +2,7 @@
 layout:     post
 title:      "And the winner is..."
 subtitle:   "Hockey Pool Part 4: Season wrap-up"
+article-type: "long"
 categories: ["hockey pool"]
 description: "For a long time I was further ahead of second place than second was from last. That gave me the freedom to play patiently.
 But even I knew it would end. Good luck is dangerous, when it balances out with bad."

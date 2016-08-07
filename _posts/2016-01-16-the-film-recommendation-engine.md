@@ -2,6 +2,7 @@
 layout:     post
 title:      "How The Green Mile is like American History X"
 subtitle:   "I built a film recommendation engine, and now you can too"
+article-type: "long"
 categories: ["film"]
 description: "Why do we like movies? There's a social aspect, yet many of us will gladly watch them on our own. It's because we love a
 good story. Those of us who appreciate film the most see it as an art form with incredible complexity and

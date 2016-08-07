@@ -2,6 +2,7 @@
 layout:     post
 title:      "Ranking playoff goalies"
 subtitle:   "The best and worst goalie playoffs of the last decade"
+article-type: "long"
 categories: ["hockey", "goalies"]
 description: "Okay, I know you've been waiting for it, let's get to the worst goalie performances in the last decade. 
 Prepare yourselves, this is gonna be ugly."

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Woops, I hijacked your Venmo account"
 subtitle:   "A worrisome oversight in Venmo authentication"
+article-type: "long"
 categories: []
 description: "Venmo advises that 'if you have a Venmo account, we'll send you a password reset link that you can use to sign into
 Venmo!' The first six words are redundant."

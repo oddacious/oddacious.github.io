@@ -2,6 +2,7 @@
 layout:     post
 title:      "NBA March Madness"
 subtitle:   "How to bring the world's best tournament to the world's top basketball league"
+article-type: "long"
 categories: ["basketball"]
 description: "For sports fans, March Madness is an event like no other. It’s where the top 64+ teams in college
 basketball get together to play a win-or-go-home single elimination tournament. Every year I wonder

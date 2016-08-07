@@ -2,6 +2,7 @@
 layout:     post
 title:      "30 days in San Francisco's Mission, in living colour"
 subtitle:   "A visual tour of my first month in SF"
+article-type: "long"
 categories: []
 description: "My vantage point has to begin with the Mission, the geographic and social centre of my experience thus
 far. This is where I live, the focal point from which I visit the rest of the city and region."

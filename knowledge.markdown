@@ -3,6 +3,7 @@ layout: page
 title: "Knowledge"
 description: "And the thirst for it"
 header-img: "img/red_bridge.jpg"
+order: 3 
 ---
 
 [Jekyll]: http://jekyllrb.com/ "Jekyll"
