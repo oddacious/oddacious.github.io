@@ -22,10 +22,6 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 [BR]: http://basketball-reference.com
 [Statistical Power]: https://en.wikipedia.org/wiki/Statistical_power
 
-This is going to be the first in a series of 
-
-It's the end of the playoffs, and we can take a look at how the [goalies did][Playoff leaders].
-
 ## Conclusions based on weak statistics
 
 In [MLB Teams Should Go For Talent, Not Balance, At The Trade Deadline][Source Text], Neil Paine (Note: one of my
