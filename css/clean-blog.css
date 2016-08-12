@@ -1,6 +1,6 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #404040;
 }
 p {
@@ -17,7 +17,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 700;
 }
 a {
   color: #404040;
@@ -407,11 +407,6 @@ body {
   color: #404040;
   font-style: italic;
 }
-/* a.citation {
-    right-padding: 0px;
-  color: #0085a1;
-} */
-
 cite.title-img {
   padding-left: 100px;
   border-left: 1px solid #eeeeee;
@@ -420,4 +415,14 @@ cite.title-img {
 }
 table {
     font-size: 14px;
+}
+.articles {
+    background-color: #fff;
+    color: #333332;
+    font-size: 12pt;
+    padding: 0px;
+    text-decoration: none;
+}
+li p {
+    margin: 0px;
 }
