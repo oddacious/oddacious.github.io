@@ -4,8 +4,8 @@ title:      "How to be a little wrong everywhere"
 subtitle:   "NHL skater and goalie projections 2016-17"
 article-type: "long"
 categories: ["hockey", "goalies", "data"]
-description: "Okay, I know you've been waiting for it, let's get to the worst goalie performances in the last decade. 
-Prepare yourselves, this is gonna be ugly."
+description: "So there you have it, some no-holds-barred nothing-to-hide projections. Full tables are in my github link.
+I'll use them as a starting point, but by no means an ending point, on my opinions and pool draft this year." 
 tags:       ["hockey", "NHL", "goalies", "data"]
 date:       2016-09-17 12:00:00
 author:     "RDJ"
@@ -38,7 +38,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 
 I've decided to upload my projections for NHL [skaters][Skater projections] and [goalies][Goalie projections] this year.
 These are derived from basic statistical models. They cover many players and a variety of stats, but of course come with
-some caveats.
+some caveats. Mainly, they're wrong.
 
 ## Why
 
