@@ -4,8 +4,8 @@ title:      "A hand on the thermostat"
 subtitle:   "Interpretations of inflation evidence" 
 article-type: "short"
 categories: ["curmudgeon", "economics"]
-description: "The point I want to make is that attending church more often in the past, and attending church less often in the past, are
-not mutually exclusive"
+description: "If we wanted to test the impact of unemployment and expectations on inflation, we could study data from a regime where
+inflation is not a goal of policymakers."
 tags:       ["economics"]
 date:       2017-03-03 12:00:00
 author:     "RDJ"
