@@ -25,6 +25,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 [NHL top 100]: https://www.nhl.com/fans/nhl-centennial/100-greatest-nhl-players
 [hockey-reference]: http://www.hockey-reference.com/
 [Point Shares]: http://www.hockey-reference.com/about/point_shares.html
+[data link]: https://github.com/oddacious/data/blob/master/NHL/hhof_probabilities_as_of_20170419.csv
 
 All this talk about the [NHL's Greatest 100][NHL top 100] got me thinking about what goes into hockey greatness. I always lamented how there
 wasn't a Hockey Hall of Fame model like [basketball-reference's model][BR model]. So I thought I would go about predicting both
@@ -122,6 +123,8 @@ can intuitively measure them relative to each other. Below I'll describe the eff
 - Winning the Hart trophy is worth nearly **3 cups**.
 
 ## Top players of all time
+
+You want probabilities? You got em! [Right here][data link].
 
 The top predictions are a who’s-who of the greatest players of all time. Gordie Howe, Wayne Gretzky, Maurice Richard,
 Howie Morenz, and Phil Esposito fill out our top five, with a host of other elite players only ever-so-slight decimal
@@ -276,4 +279,5 @@ not doing it, because then I'm really fitting on my out-of-time validation.
 
 ## Summary
 
-Don't think I'm done yet! I have much more to say, and this has become far too long. More to come! 
+Don't think I'm done yet! I have much more to say, and this has become far too long. More to come! In the meantime, have
+fun digging through the [probabilities][data link].
