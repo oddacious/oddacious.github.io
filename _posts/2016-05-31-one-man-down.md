@@ -21,7 +21,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nd/2.0/"
 [Rihanna]: https://www.youtube.com/watch?v=sEhy-RXkNo0 "Youtube: Rihanna - Man Down"
 [WAR]: http://blog.war-on-ice.com/adjusted-save-percentage-taking-into-account-high-medium-and-low-probability-shots/
 [Mercadante article]: http://www.blueshirtbanter.com/analytics/2015/8/12/9136611/goalies-are-voodoo-but-improving-comparative-analysis-tools-can-help
-[Me]: {{ site.baseurl }}/where-the-puck-stops/
+[Me]: {{ site.baseurl }}/where-the-puck-stops
 [RIT]: https://www.rit.edu/science/moneypuck 
 [RIT slides]: https://hockey-graphs.com/2015/10/13/rithac-recap-with-slides/
 [Pearson]: https://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient "Wikipedia: Pearson product-moment correlation coefficient"

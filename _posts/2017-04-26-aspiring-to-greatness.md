@@ -17,7 +17,7 @@ header-img-license: "CC BY-NC-ND"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 ---
 
-[HHoF article]: {{ site.baseurl }}/hall-of-fame-model/
+[HHoF article]: {{ site.baseurl }}/hall-of-fame-model
 [NHL Greatest 100]: https://www.nhl.com/fans/nhl-centennial/100-greatest-nhl-players
 [NHL first 33]: https://www.nhl.com/news/33-of-100-greatest-nhl-players-revealed/c-284889326
 [Top 100 book]: https://www.amazon.com/Greatest-Players-History-Other-Stuff-ebook/dp/B01NBXW34H

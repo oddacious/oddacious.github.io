@@ -18,7 +18,7 @@ header-img-license: "CC BY-NC-ND"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 ---
 
-[Previous Post]: {{ site.baseurl }}/nhl-projections-2017/
+[Previous Post]: {{ site.baseurl }}/nhl-projections-2017
 [Wikipedia: Gradiant tree boosting]: https://en.wikipedia.org/wiki/Gradient_boosting#Gradient_tree_boosting
 [pools1]: {{ site.baseurl }}/hockey-pools-part-1
 [pools2]: {{ site.baseurl }}/hockey-pools-part-2
@@ -30,7 +30,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 [sklearn GBR]: http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
 [sklearn GridSearchCV]: http://scikit-learn.org/stable/modules/grid_search.html
 [hockey-reference]: http://www.hockey-reference.com/
-[prior goalie stats]: {{ site.baseurl }}/where-the-puck-stops/
+[prior goalie stats]: {{ site.baseurl }}/where-the-puck-stops
 [Goalie ipynb]: https://github.com/oddacious/goalies/tree/master/goalie_prediction
 [oddacious data]: https://github.com/oddacious/data/tree/master/NHL
 [IMDB SNG]: http://www.imdb.com/title/tt1862079/

@@ -19,8 +19,8 @@ header-img-license: "CC BY-NC-ND"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 ---
 
-[HHoF article]: {{ site.baseurl }}/hall-of-fame-model/
-[Top 100 article]: {{ site.baseurl }}/aspiring-to-greatness/
+[HHoF article]: {{ site.baseurl }}/hall-of-fame-model
+[Top 100 article]: {{ site.baseurl }}/aspiring-to-greatness
 [Effective DF]: https://arxiv.org/abs/1312.7851
 [Model search DF]: https://arxiv.org/abs/1402.1920
 [Wikipedia BIC]: https://en.wikipedia.org/wiki/Bayesian_information_criterion

@@ -25,7 +25,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 [Daily Faceoff pred]: http://www.dailyfaceoff.com/41179/dailyfaceoff-2016-17-fantasy-hockey-draft-kit-on-sale-now
 [LWL pred]: http://leftwinglock.com/draftkits/index.php?r=apr05art
 [Rotoworld pred]: http://www.rotoworld.com/premium/draftguide/hockey/main_page.aspx
-[Models article]: {{ site.baseurl }}/hockey-pools-part-3/
+[Models article]: {{ site.baseurl }}/hockey-pools-part-3
 [Wikipedia lasso]: https://en.wikipedia.org/wiki/Lasso_(statistics)
 [Matt Cane]: https://puckplusplus.com/
 [Voodoo twitter]: https://twitter.com/dataandme/status/774620848586100736

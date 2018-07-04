@@ -22,7 +22,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 [Boucher five games]: http://www.fiveforhowling.com/2013/1/17/3761850/brian-bouchers-nhl-record-shutout-streak
 [binomial distribution]: https://en.wikipedia.org/wiki/Binomial_distribution
 [relevant repo]: https://github.com/oddacious/goalies/tree/master/goalie_variance
-[twice adjusted article]: {{ site.baseurl }}/where-the-puck-stops/
+[twice adjusted article]: {{ site.baseurl }}/where-the-puck-stops
 [WOI]: http://war-on-ice.com/
 [Mike Smith stats]: http://www.hockey-reference.com/players/s/smithmi01.html#stats_playoffs_nhl::none "Hockey-Reference: Mike Smith"
 [Fleury massacre]: http://www.sbnation.com/nhl/2013/5/8/4312126/marc-andre-fleury-stats-penguins-nhl-playoffs-2013 "SBNation: Stanley Cup playoffs: Marc-Andre Fleury, the worst playoff goalie in hockey"
