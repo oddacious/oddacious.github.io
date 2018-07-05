@@ -3,7 +3,7 @@ layout:     post
 title:      "Predicting the Hockey Hall of Fame"
 subtitle:   "Who got in, who shouldn't have, who will, and why"
 article-type: "long"
-categories: ["hockey", "goalies", "data"]
+categories: ["hockey", "data", "hhof"]
 description: "All this talk about the NHL's Greatest 100 got me thinking about what goes into hockey greatness. I always lamented how there
 wasn't a Hockey Hall of Fame model like basketball-reference's model. So I thought I would go about predicting both
 things."

@@ -14,7 +14,15 @@ order: 1
     {% endif %}
 {% endfor %}
 
-**Hockey Pools Series:**
+**Hockey Hall of Fame:**
+
+{% for post in site.posts reversed %}
+    {% if post.categories contains 'hhof' and post.article-type == 'long' %}
+* [{% if post.subtitle %}{{ post.subtitle }}{% else %}{{ post.title }}{% endif %} \[{{post.date | date: "%Y-%m-%d"}}\]]({{ post.url }}){:class="articles"} 
+    {% endif %}
+{% endfor %}
+
+**Fantasy Hockey Pools:**
 
 {% for post in site.posts reversed %}
     {% if post.categories contains 'hockey pool' and post.article-type == 'long' %}
@@ -34,7 +42,8 @@ order: 1
 
 {% for post in site.posts reversed %}
     {% if post.article-type == 'long' %}
-        {% unless post.categories contains 'basketball' or post.categories contains 'hockey pool' or post.categories contains 'goalies' %}
+        {% unless post.categories contains 'basketball' or 
+post.categories contains 'hockey pool' or post.categories contains 'goalies'  or post.categories contains 'hhof' %}
 * [{% if post.subtitle %}{{ post.subtitle }}{% else %}{{ post.title }}{% endif %} \[{{post.date | date: "%Y-%m-%d"}}\]]({{ post.url }}){:class="articles"} 
         {% endunless %}
     {% endif %}

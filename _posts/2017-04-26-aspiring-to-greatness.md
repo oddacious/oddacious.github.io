@@ -3,7 +3,7 @@ layout:     post
 title:      "5 players who should be in the NHL's 100 greatest"
 subtitle:   "5 additions and subtractions to NHL's 100 greatest list"
 article-type: "long"
-categories: ["hockey", "data"]
+categories: ["hockey", "data", "hhof"]
 description: "I love lists, and I love arguing, so here are five players who should be on the top 100, and who they could take off."
 tags:       ["hockey", "NHL", "data"]
 date:       2017-04-26 12:00:00

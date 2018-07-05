@@ -3,7 +3,7 @@ layout:     post
 title:      "Aiming for generalization with Hockey Hall of Fame models"
 subtitle:   "On complexity and overfit in hockey models"
 article-type: "long"
-categories: ["hockey", "data"]
+categories: ["hockey", "data", "hhof"]
 description: "We can fit the data perfectly, but we shouldn’t. This is what’s known as the bias-variance trade-off.
 The more precise we try to be in fitting the data at hand, the more likely we memorize effects that are due to random variation in the
 training data that do not generalize to other datasets."
