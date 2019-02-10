@@ -23,4 +23,5 @@ include: [".htaccess"]
 
 gems:
     - jekyll-sitemap
+    - jekyll-paginate
 
