@@ -83,7 +83,7 @@ him on any other team). Minnesota drops 3 wins and 10% on their playoff
 probability. Even without Butler, they're a good team. They might improve by subtraction, since [Jamal Crawford][Jamal
 Crawford] put up poor BPM numbers last year in substantial minutes.
 
-Except, at Zach Lowe [said][Zach Lowe predictions], Minnesota needs "an alternate reality where everything isn't always ruined there". Who knows what will happen here.
+Except, as Zach Lowe [said][Zach Lowe predictions], Minnesota needs "an alternate reality where everything isn't always ruined there". Who knows what will happen here.
 
 # Bad players are as damaging as good players are beneficial
 

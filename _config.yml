@@ -14,7 +14,7 @@ share_enabled: 1
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 #permalink: pretty
 permalink: /:title
 paginate: 10

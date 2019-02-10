@@ -29,20 +29,20 @@ header-img-license-link: "https://creativecommons.org/licenses/by/2.0/"
 
 ## Background
 
-I’ve been thinking a lot lately about how to evaluate probabilistic forecasts. The specific context is that I generate
+I've been thinking a lot lately about how to evaluate probabilistic forecasts. The specific context is that I generate
 playoff probabilities for each NBA team at the onset of each NBA season (see forecasts for the [current season][nba2019]
 and [last year][nba2018]). Other people do this too. Ex post, how do we decide if my forecasts are better or worse than theirs?
 
 If my forecasts had higher playoff probabilities for every team that ended up making the playoffs, and lower
-probabilities for every team that missed them, then this isn’t a challenge, since almost any reasonable way we approach
+probabilities for every team that missed them, then this isn't a challenge, since almost any reasonable way we approach
 the problem will lead us to conclude that my forecast was better. But reality is rarely that simple. Compared to smart
 forecasters, some of my probabilities will be directionally better, and some worse. How do we weigh these? The most
 common choice is mean squared error (MSE, or *Brier* scores, after [\[Brier 1950\]][brier]), but this is only one of many potential
 options, and may be more arbitrary than you expect.
 
-The term for this field of study is [*scoring rules*][scoringrules], and it has a rich literature. I don’t have anything to add at the
+The term for this field of study is [*scoring rules*][scoringrules], and it has a rich literature. I don't have anything to add at the
 moment that extends the literature, but it might be helpful for me to run through some basics and explain my thinking.
-I’ll restrict to the binary case because it fits my use case and it makes the explanation simpler.
+I'll restrict to the binary case because it fits my use case and it makes the explanation simpler.
 
 ## One agreed upon principle: that we should only use proper scoring rules
 
@@ -57,7 +57,7 @@ There are many proper scoring rules. All of them incentivize forecasters to give
 in how they penalize incorrect probabilities. MSE is a proper scoring rule. By that standard, it works. But it is far
 from the only proper scoring rule. Why do we use it?
 
-Consider a motivating example. Let’s say two forecasters are predicting a repeatable event, which will have a particular
+Consider a motivating example. Let's say two forecasters are predicting a repeatable event, which will have a particular
 positive outcome with some probability and a different outcome with the remaining probability, such that the two
 outcomes sum to 100%. Forecaster A predicts a 0% probability of the positive outcome. Forecaster B predicts a 20%
 probability. We test the event a great number of times, and observe the positive outcome 10% of the time. If we evaluate
@@ -71,7 +71,7 @@ fails to happen, we are fundamentally incorrect.
 
 ## The logarithmic scoring rule
 
-Thankfully, I stumbled upon Terence Tao’s very clear approach in [his blog][tao]. This saved me from working my way through the
+Thankfully, I stumbled upon Terence Tao's very clear approach in [his blog][tao]. This saved me from working my way through the
 math myself. Tao derives the logarithmic scoring rule through first principles. The logarithmic scoring rule applies
 penalties to being wrong, according to the log of how correct the probability was. 
 
@@ -85,12 +85,12 @@ exponentially, asymptotically approaching a negative infinity term in the case w
 absolute confidence and was incorrect.
 
 The logarithmic scoring rule has a strong foundation in information theory, described in detail in [\[Roulston and Smith
-2001\]][roulston]. It’s also closely tied to formulations of how a gambler should optimize their bets for long-term profit, as
+2001\]][roulston]. It's also closely tied to formulations of how a gambler should optimize their bets for long-term profit, as
 famously described in the [\[Kelly 1956\]][kelly].
 
 ## Critiques of the logarithmic scoring rule
 
-MSE is a popular rule, but there isn’t a strong fundamental basis for it. In Brier’s original paper he proposes it and
+MSE is a popular rule, but there isn't a strong fundamental basis for it. In Brier's original paper he proposes it and
 describes its property of being proper, but without any backing for why it should be chosen over other proper scoring
 rules. Philip E. Tetlock uses it for his long-running Good Judgment Project, so perhaps MSE is best-by-test.
 
@@ -99,28 +99,28 @@ establishes a positive case for MSE, and offers a critical comparison versus the
 
 Selton offers two critiques of the logarithmic scoring rule. Both are related to the asymptotic property, where the
 penalty for being confident and incorrect approaches an infinite asymptote. The first critique is the *insensitivity
-property*, which is essentially about how once a scorer has been penalized by infinity, it doesn’t matter how well they
+property*, which is essentially about how once a scorer has been penalized by infinity, it doesn't matter how well they
 perform on the rest of their predictions. The second critique is *hypersensitivity*, which is that the asymptote becomes
-very extreme very quickly. Selton writes that this “implies the value judgment that small differences between small
+very extreme very quickly. Selton writes that this "implies the value judgment that small differences between small
 probabilities should be taken very seriously and that wrongly describing something extremely improbable as having zero
-probability is an unforgivable sin.”
+probability is an unforgivable sin."
 
-He’s right to claim that the scoring rule is normative, but normative is a necessary property here - we choose which
-grounds upon which we judge these scoring rules. Fittingly, his critique is very normative too. Selton frankly doesn’t
-like how extreme the differences can be for very small probabilities, and that he doesn’t like infinite penalties. 
+He's right to claim that the scoring rule is normative, but normative is a necessary property here - we choose which
+grounds upon which we judge these scoring rules. Fittingly, his critique is very normative too. Selton frankly doesn't
+like how extreme the differences can be for very small probabilities, and he doesn't like infinite penalties. 
 
 Selton describes four axioms that are collectively satisfied by MSE but not by several other rules. In particular, his
 fourth axiom, of neutrality, excludes the other rules. Neutrality is where a being wrong in either direction should be
 equivalent - in his formulation, the expected loss of predicting p when q is true should be the same as predicting q
-when p is true. But it’s exactly this neutrality that, in probabilistic evaluations, I disagree with. Predicting 10% for
-an event that is actually 0% likely should not be penalized as strongly as predicting 0% when it’s actually 10% likely!
-Selton writes that “the severity of the deviations between [two theories] should not be judged differently depending on
-which of them is true or false.
+when p is true. But it's exactly this neutrality that, in probabilistic evaluations, I disagree with. Predicting 10% for
+an event that is actually 0% likely should not be penalized as strongly as predicting 0% when it is actually 10% likely!
+Selton writes that "the severity of the deviations between [two theories] should not be judged differently depending on
+which of them is true or false."
 
 ![that just, like, your opinion, man]({{ site.baseurl }}/img/youropinion.jpg){: .center-image }
 <span class="caption text-muted">My thoughts on that.</span>
 
-But really, that’s partially the point. Other than the property of being proper, we don’t have universally accepted
+But really, that's partially the point. Other than the property of being proper, we don't have universally accepted
 axioms to weigh these scoring rules. Which means that individuals need to choose them, and argue for them on some
 grounds.
 
@@ -129,14 +129,14 @@ grounds.
 We could adapt the logarithmic rule to support a lexicographic comparison. If we are comparing two forecasters, choose
 the forecaster with the fewer number of infinite penalties. If they have the same number of infinite penalties
 (including having 0 each), then evaluate on logarithmic loss of the remaining predictions. In this way we effectively
-“cancel out” the infinite penalties. This breaks our likelihood interpretation and ruins the ratio of likelihoods, but
+"cancel out" the infinite penalties. This breaks our likelihood interpretation and ruins the ratio of likelihoods, but
 at least we would still have a rule for comparisons.
 
 ## Conclusion
 
-I’ve warmed up to MSE as a practical choice, but I still prefer log loss in probabilistic settings. It has a strong
-information theory foundation. It also fits a gambler’s use case, which is one of the historical foundations of
-probability. As Roulston and Smith describe, about a log loss formulation that they label ignorance, “a house setting
+I've warmed up to MSE as a practical choice, but I still prefer log loss in probabilistic settings. It has a strong
+information theory foundation. It also fits a gambler's use case, which is one of the historical foundations of
+probability. As Roulston and Smith describe, about a log loss formulation that they label ignorance, "a house setting
 odds based on a minimum Brier score model will be expected to lose money to a gambler using the model with lower
 ignorance". I'll stay on the side of the gamblers who don't lose money.
 
