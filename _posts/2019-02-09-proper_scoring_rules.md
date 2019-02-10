@@ -25,6 +25,7 @@ header-img-license-link: "https://creativecommons.org/licenses/by/2.0/"
 [murphy]: https://journals.ametsoc.org/doi/pdf/10.1175/1520-0434%281998%29013%3C0005%3ATEHOPF%3E2.0.CO%3B2 "Murphy 1997 (PDF)"
 [kelly]: https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf 
 [roulston]: https://journals.ametsoc.org/doi/10.1175/1520-0493%282002%29130%3C1653%3AEPFUIT%3E2.0.CO%3B2 "Roulston and Smith 2001" 
+[selton]: http://www.eecs.harvard.edu/cs286r/courses/fall12/papers/Selten98.pdf "Selton 1998 (PDF)"
 [tao]: https://terrytao.wordpress.com/2016/06/01/how-to-assign-partial-credit-on-an-exam-of-true-false-questions/ "Tao 2016"
 
 ## Background
@@ -88,7 +89,7 @@ The logarithmic scoring rule has a strong foundation in information theory, desc
 2001\]][roulston]. It's also closely tied to formulations of how a gambler should optimize their bets for long-term profit, as
 famously described in the [\[Kelly 1956\]][kelly].
 
-## Critiques of the logarithmic scoring rule
+## MSE versus log loss
 
 MSE is a popular rule, but there isn't a strong fundamental basis for it. In Brier's original paper he proposes it and
 describes its property of being proper, but without any backing for why it should be chosen over other proper scoring
