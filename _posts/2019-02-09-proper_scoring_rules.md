@@ -137,7 +137,8 @@ at least we would still have a rule for comparisons.
 
 I've warmed up to MSE as a practical choice, but I still prefer log loss in probabilistic settings. It has a strong
 information theory foundation. It also fits a gambler's use case, which is one of the historical foundations of
-probability. As Roulston and Smith describe, about a log loss formulation that they label ignorance, "a house setting
+probability and a key way we think about sports probabilities. As Roulston and Smith describe, about a log loss
+formulation that they label *ignorance*, "a house setting
 odds based on a minimum Brier score model will be expected to lose money to a gambler using the model with lower
 ignorance". I'll stay on the side of the gamblers who don't lose money.
 
