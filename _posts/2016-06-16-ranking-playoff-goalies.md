@@ -9,13 +9,13 @@ Prepare yourselves, this is gonna be ugly."
 tags:       ["hockey", "NHL", "goalies"]
 date:       2016-06-16 12:00:00
 author:     "RDJ"
-header-img: "img/goalie_variance/birds.jpg"
-header-img-title: "BIRDS: Seabrook"
-header-img-link: "https://www.flickr.com/photos/snowmail/4939698968/"
-header-img-author: "GD Taber"
-header-img-author-link: "https://www.flickr.com/photos/snowmail/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/noise_med.jpg"
+header-img-title: "D700 noise tests"
+header-img-link: "https://www.flickr.com/photos/_belial/4881763904/"
+header-img-author: "Carl Jones"
+header-img-author-link: "https://www.flickr.com/photos/_belial/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Playoff leaders]: http://www.cbssports.com/nhl/stats/playersort/nhl/year-2015-season-postseason-category-savepercentage

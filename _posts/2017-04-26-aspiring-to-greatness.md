@@ -8,11 +8,11 @@ description: "I love lists, and I love arguing, so here are five players who sho
 tags:       ["hockey", "NHL", "data"]
 date:       2017-04-26 12:00:00
 author:     "RDJ"
-header-img: "img/clouds.jpg"
-header-img-title: "Devils Head Fire Lookout"
-header-img-link: "https://www.flickr.com/photos/85974714@N07/9681807863/"
-header-img-author: "Casey Reynolds"
-header-img-author-link: "https://www.flickr.com/photos/85974714@N07/"
+header-img: "img/hhof/glory4.jpg"
+header-img-title: "Loving Nature, Loving Each Other…"
+header-img-link: "https://www.flickr.com/photos/peter_from_wellington/15119393337/"
+header-img-author: "Peter Kurdulija"
+header-img-author-link: "https://www.flickr.com/photos/peter_from_wellington/"
 header-img-license: "CC BY-NC-ND"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 ---

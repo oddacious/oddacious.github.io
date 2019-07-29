@@ -10,13 +10,13 @@ why the NBA doesn’t get in on the action."
 tags:       ["basketball", "tournament"]
 date:       2015-09-07 12:00:00
 author:     "RDJ"
-header-img: "img/toronto_rokni.jpg"
-header-img-title: "Toronto & the moon"
-header-img-link: "https://www.flickr.com/photos/roozbeh11/2848374705/"
-header-img-author: "Roozbeh Rokni"
-header-img-author-link: "https://www.flickr.com/photos/roozbeh11/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/baller.jpg"
+header-img-title: "Baller"
+header-img-link: "https://www.flickr.com/photos/guiseiz/8045463232/"
+header-img-author: "Gul Selz"
+header-img-author-link: "https://www.flickr.com/photos/guiseiz/"
+header-img-license: "CC BY-SA"
+header-img-license-link: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
 [march madness]: http://espn.go.com/mens-college-basketball/tournament/bracket "ESPN: NCAA Tournament Bracket"

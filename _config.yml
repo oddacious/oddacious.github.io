@@ -9,8 +9,7 @@ url: https://oddacious.github.io
 twitter_username: gentleputsch
 github_username: 
 facebook_username:
-share_enabled: 1
-
+share_enabled: 0
 
 # Build settings
 markdown: kramdown

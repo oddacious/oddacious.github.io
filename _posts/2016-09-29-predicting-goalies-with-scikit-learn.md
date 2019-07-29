@@ -9,13 +9,13 @@ players in front of them, whichever is least merciful."
 tags:       ["hockey", "NHL", "goalies", "data", "predictive modeling"]
 date:       2016-09-29 12:00:00
 author:     "RDJ"
-header-img: "img/goalie_models/sunpeak3.jpg"
-header-img-title: "Soir d'été / Summer evening"
-header-img-link: "https://www.flickr.com/photos/fra298/20110242865/"
-header-img-author: "fra299"
-header-img-author-link: "https://www.flickr.com/photos/fra298/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/noise_med.jpg"
+header-img-title: "D700 noise tests"
+header-img-link: "https://www.flickr.com/photos/_belial/4881763904/"
+header-img-author: "Carl Jones"
+header-img-author-link: "https://www.flickr.com/photos/_belial/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Previous Post]: {{ site.baseurl }}/nhl-projections-2017

@@ -9,11 +9,11 @@ I'd never been in a hockey pool before. Not a real one. I had done a couple of s
 tags:       ["hockey", "hockey pool", "analytics", "predictive modeling", "simulation", "optimization"]
 date:       2015-08-23 12:00:00
 author:     "RDJ"
-header-img: "img/lawnchairs.jpg"
-header-img-title: "Lawn Chairs"
-header-img-link: "https://www.flickr.com/photos/rogersmj/2818051093/"
-header-img-author: "Matthew Rogers"
-header-img-author-link: "https://www.flickr.com/photos/rogersmj/"
+header-img: "img/renewal.jpg"
+header-img-title: "A decaying wharf in Liverpool"
+header-img-link: "https://www.flickr.com/photos/neilsingapore/7980556368"
+header-img-author: "Neil Howard"
+header-img-author-link: "https://www.flickr.com/photos/neilsingapore/"
 header-img-license: "CC BY-NC"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
@@ -105,4 +105,5 @@ Here are some of ways you can influence the game:
 * Combined with the first point, this implies that you can drop and add players to get more games in during a match-up. The players at the margin of your team could be dropped and replaced with ones who will fit into more games for your lineup in a given week
 * You pick the team in the first place. I've glossed over that so far, but it's a major part of the strategy. You pick a team through the draft
 
-To find out how I did in my first season, read the next article in this series, [{{page.next.subtitle}}]({{page.next.url}})
+To find out how I did in my first season, read the next article in this series,
+[{{page.next.subtitle}}]({{page.next.url}}).

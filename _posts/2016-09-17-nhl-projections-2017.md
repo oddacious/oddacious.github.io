@@ -9,13 +9,13 @@ I'll use them as a starting point, but by no means an ending point, on my opinio
 tags:       ["hockey", "NHL", "goalies", "data"]
 date:       2016-09-17 12:00:00
 author:     "RDJ"
-header-img: "img/nhl_pred_201617/cactus.jpg"
-header-img-title: "If I was an alien, visiting Earth, I'd disguise myself as a cactus too."
-header-img-link: "https://www.flickr.com/photos/_belial/5932900333/"
+header-img: "img/noise_med.jpg"
+header-img-title: "D700 noise tests"
+header-img-link: "https://www.flickr.com/photos/_belial/4881763904/"
 header-img-author: "Carl Jones"
 header-img-author-link: "https://www.flickr.com/photos/_belial/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Skater projections]: https://github.com/oddacious/data/blob/master/NHL/skaters_basic_projections_201617_as_of_20160917.csv
