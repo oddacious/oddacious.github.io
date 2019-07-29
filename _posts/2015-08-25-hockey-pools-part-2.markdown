@@ -8,11 +8,11 @@ description: " My season turned around when I figured out that I really wasn't p
 tags:       ["hockey", "hockey pool", "analytics"]
 date:       2015-08-25 12:00:00
 author:     "RDJ"
-header-img: "img/artcore3.jpg"
-header-img-title: "Lines'n'Drips"
-header-img-link: "https://www.flickr.com/photos/streetart-berlin/6124010370/"
-header-img-author: "urbanartcore.eu"
-header-img-author-link: "http://www.urbanartcore.eu/"
+header-img: "img/renewal.jpg"
+header-img-title: "A decaying wharf in Liverpool"
+header-img-link: "https://www.flickr.com/photos/neilsingapore/7980556368"
+header-img-author: "Neil Howard"
+header-img-author-link: "https://www.flickr.com/photos/neilsingapore/"
 header-img-license: "CC BY-NC"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
@@ -26,6 +26,9 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 [ageing]: http://www.sbnation.com/nhl/2014/3/13/5500522/nhl-scoring-stats-rates-age-analysis "SBNation: NHL age curve"
 [brodeur]: http://www.rantsports.com/nhl/2015/01/25/martin-brodeurs-stint-with-st-louis-blues-was-pointless/ "RankSports: Martin Brodeur’s Stint With St. Louis Blues Was Pointless"
 [goalies]: http://wagesofwins.com/2011/07/19/your-nhl-goalie-doesnt-matter/ "Wages of Wins: Your NHL Goalie doesn't matter (much)!"
+
+*You might be interested in the prior article,
+[{{page.previous.subtitle}}]({{page.previous.url}}). Feel free to go give that a read.*
 
 When we first started the pool, our teams didn't have any players. They didn't have anything but names. That was the first decision I had to make: what to name my team. It's absolutely crucial (and utterly inconsequential to winning the pool) to pick a good name. I went with *Bring Back Gilmour*, echoing the combination of nostalgia and desperation that any Leafs fan [knows][leafs1] [too][leafs2] [well][leafs3]. 
 
@@ -129,4 +132,5 @@ My opponents aren't perfect in their game play either, which is why early season
 
 Somehow I finished second, winning a bit of money, while picking up extra first and third round draft picks.  I was fortunate to win match-ups against quality teams, and came quite close to beating one more. There was also good play and careful choices in those match-ups. All in all, good recovery, and not bad for my first time!
 
-To see how I'm upping my game for next year, go to the next article in this series, [{{page.next.subtitle}}]({{page.next.url}})
+To see how I'm upping my game for next year, go to the next article in this series,
+[{{page.next.subtitle}}]({{page.next.url}}).

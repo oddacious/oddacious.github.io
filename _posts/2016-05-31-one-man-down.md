@@ -9,13 +9,13 @@ me just send you to the Youtube link now and we can avoid some impending disappo
 tags:       ["hockey", "NHL", "goalies"]
 date:       2016-05-31 12:00:00
 author:     "RDJ"
-header-img: "img/man_down/wasp2.jpg"
-header-img-title: "There's Too Much Confusion"
-header-img-link: "https://www.flickr.com/photos/charlock/19412043834/"
-header-img-author: "Anne Reeves"
-header-img-author-link: "https://www.flickr.com/photos/charlock/"
-header-img-license: "CC BY-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nd/2.0/"
+header-img: "img/noise_med.jpg"
+header-img-title: "D700 noise tests"
+header-img-link: "https://www.flickr.com/photos/_belial/4881763904/"
+header-img-author: "Carl Jones"
+header-img-author-link: "https://www.flickr.com/photos/_belial/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Rihanna]: https://www.youtube.com/watch?v=sEhy-RXkNo0 "Youtube: Rihanna - Man Down"

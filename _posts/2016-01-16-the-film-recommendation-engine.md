@@ -10,13 +10,13 @@ beauty."
 tags:       ["film"]
 date:       2016-01-16 12:00:00
 author:     "RDJ"
-header-img: "img/fireworks2.jpg"
-header-img-title: "Fireworks on film"
-header-img-link: "https://www.flickr.com/photos/pagedooley/17187335925/"
-header-img-author: "Kevin Dooley"
-header-img-author-link: "https://www.flickr.com/photos/pagedooley/"
-header-img-license: "CC BY"
-header-img-license-link: "https://creativecommons.org/licenses/by/2.0/"
+header-img: "img/hhof_2018/background-clouds-dark.jpg"
+header-img-title: "Birdseye Photography of City Buildings Near Trees and Mountains"
+header-img-link: "https://www.pexels.com/photo/birdseye-photography-of-city-buildings-near-trees-and-mountains-957002/"
+header-img-author: "Felix Mittermeier"
+header-img-author-link: "felix-mittermeier.de"
+header-img-license: "CC0"
+header-img-license-link: "https://creativecommons.org/share-your-work/public-domain/cc0/"
 ---
 
 [IMDB Lock Stock]: http://www.imdb.com/title/tt0120735/ "Lock, Stock and Two Smoking Barrels"

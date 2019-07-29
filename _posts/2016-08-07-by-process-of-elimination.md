@@ -9,13 +9,13 @@ feel the same way."
 tags:       ["Upshot", "Trump"]
 date:       2016-08-07 12:00:00
 author:     "RDJ"
-header-img: "img/village_and_temples.jpg"
-header-img-title: "San Biagio, Montepulciano."
-header-img-link: "https://www.flickr.com/photos/tommyscapes/9973714895/"
-header-img-author: "Tommy Clark"
-header-img-author-link: "https://www.flickr.com/photos/tommyscapes/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/ends.jpg"
+header-img-title: "."
+header-img-link: "https://www.flickr.com/photos/carmendcluj/13677246453/"
+header-img-author: "carmen_d_cluj"
+header-img-author-link: "https://www.flickr.com/photos/carmendcluj/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Source Text]: http://www.nytimes.com/2016/08/04/upshot/prediction-markets-suggest-a-chance-that-donald-trump-will-drop-out.html

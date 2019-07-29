@@ -9,13 +9,13 @@ present. I don't know whether the claim is right or wrong, but this doesn't brin
 tags:       ["MLB", "FiveThirtyEight", "538"]
 date:       2016-08-06 12:00:00
 author:     "RDJ"
-header-img: "img/masquerade.jpg"
-header-img-title: "Dr. Sketchy - Sept 11, 2012"
-header-img-link: "https://www.flickr.com/photos/rtencati/7978889901"
-header-img-author: "Ron Tencati"
-header-img-author-link: "https://www.flickr.com/photos/rtencati/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/ends.jpg"
+header-img-title: "."
+header-img-link: "https://www.flickr.com/photos/carmendcluj/13677246453/"
+header-img-author: "carmen_d_cluj"
+header-img-author-link: "https://www.flickr.com/photos/carmendcluj/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [Source Text]: http://fivethirtyeight.com/features/mlb-teams-should-go-for-talent-not-balance-at-the-trade-deadline/

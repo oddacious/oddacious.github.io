@@ -9,14 +9,18 @@ But even I knew it would end. Good luck is dangerous, when it balances out with 
 tags:       ["hockey", "hockey pool", "analytics"]
 date:       2016-04-19 12:00:00
 author:     "RDJ"
-header-img: "img/frontier.jpg"
-header-img-title: "Frontière/Border/Frontera"
-header-img-link: "https://www.flickr.com/photos/elf-8/9492146155/"
-header-img-author: "Christian Barrette"
-header-img-author-link: "https://www.flickr.com/photos/elf-8/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/renewal.jpg"
+header-img-title: "A decaying wharf in Liverpool"
+header-img-link: "https://www.flickr.com/photos/neilsingapore/7980556368"
+header-img-author: "Neil Howard"
+header-img-author-link: "https://www.flickr.com/photos/neilsingapore/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
+
+[Part 3]: {{ site.baseurl }}/hockey-pools-part-3 "Part 3"
+
+*You might be interested in [the previous installment][Part 3] of this series.*
 
 It’s over! After months of eager reader anticipation (as I imagine it, at least) the hockey pool is finished and I can
 share results.

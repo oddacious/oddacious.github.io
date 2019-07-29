@@ -30,6 +30,10 @@ header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 [vectorize]: http://www.noamross.net/blog/2014/4/16/vectorization-in-r--why.html "Noam Ross: Vectorization in R: Why?"
 [Python sqlite]: https://docs.python.org/2/library/sqlite3.html "Python.org: sqlite3"
 [speed comparison]: https://attractivechaos.github.io/plb/ "Language benchmarking"
+[Part 4]: {{ site.baseurl }}/hockey-pools-part-4 "Part 4"
+
+*You might be interested in the prior installment of this series,
+[{{page.previous.subtitle}}]({{page.previous.url}}).*
 
 Preparing for my second year, there are good reasons why I think I'll have the best chance at winning:
 
@@ -150,3 +154,5 @@ But wait! Let's stay true to my principles of simplifying the project where poss
 So there we have it. I made my drafting process much more feasible, by simulating less rounds and making a simplified assumption for the remaining ones. I call this *simul_drafter_light*, the beautiful child of *simul_drafter* and *smart_drafter*. I then built a little user input loop for running the actual draft. There are lots of little details about how that works, like how my *simul_drafter_light* recursively pretends its a *smart_drafter*, but those things are for a future post where I don't keep the code hidden away. The code runs very fast, well within my time thresholds, and I'm not going to add any parallelization because I'm not convinced that the added complexity will translate into much additional value. There are more nuances I want to add in for next time, but I'm fine with going through the draft with this setup and reevaluating afterwards.
 
 Good luck in your pools!
+
+*You might be interested in [the next installment][Part 4] of this series.*

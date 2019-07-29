@@ -407,6 +407,14 @@ body {
   color: #404040;
   font-style: italic;
 }
+.post-date {
+  padding-right: 10px;
+  text-align: right;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 16px;
+  color: #404040;
+  font-style: italic;
+}
 cite.title-img {
   padding-left: 100px;
   border-left: 1px solid #eeeeee;

@@ -10,11 +10,11 @@ training data that do not generalize to other datasets."
 tags:       ["hockey", "NHL", "data"]
 date:       2017-05-06 12:00:00
 author:     "RDJ"
-header-img: "img/complexity/rocket.jpg"
-header-img-title: "Where the Dinosaurs Went"
-header-img-link: "https://www.flickr.com/photos/baxterboy/7177983506/"
-header-img-author: "timechaser (photo), David Random (artwork)"
-header-img-author-link: "https://www.flickr.com/photos/baxterboy/"
+header-img: "img/hhof/glory4.jpg"
+header-img-title: "Loving Nature, Loving Each Other…"
+header-img-link: "https://www.flickr.com/photos/peter_from_wellington/15119393337/"
+header-img-author: "Peter Kurdulija"
+header-img-author-link: "https://www.flickr.com/photos/peter_from_wellington/"
 header-img-license: "CC BY-NC-ND"
 header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 ---

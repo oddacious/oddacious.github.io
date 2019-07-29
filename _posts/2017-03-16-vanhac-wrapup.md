@@ -10,13 +10,13 @@ effects"
 tags:       ["hockey", "NHL", "goalies", "data"]
 date:       2017-03-16 12:00:00
 author:     "RDJ"
-header-img: "img/vanhac2017/coal_harbour2.jpg"
-header-img-title: "Coal Harbour - Vancouver, BC"
-header-img-link: "https://www.flickr.com/photos/w4nd3rl0st/11486175166/"
-header-img-author: "Jason Mrachina"
-header-img-author-link: "https://www.flickr.com/photos/w4nd3rl0st/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/noise_med.jpg"
+header-img-title: "D700 noise tests"
+header-img-link: "https://www.flickr.com/photos/_belial/4881763904/"
+header-img-author: "Carl Jones"
+header-img-author-link: "https://www.flickr.com/photos/_belial/"
+header-img-license: "CC BY-NC"
+header-img-license-link: "https://creativecommons.org/licenses/by-nc/2.0/"
 ---
 
 [VanHAC]: https://hockey-graphs.com/vanhac/

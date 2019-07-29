@@ -26,36 +26,42 @@ layout: default
     <div class="citation">
         <p>
         {% if page.header-img-title %}
-            Image is
+            Header image is
             {% if page.header-img-link %} <a href="{{page.header-img-link}}">{{page.header-img-title}}</a>
             {% else %}{{page.header-img-title}}
             {% endif %}
         {% endif %}
-        {% if page.header-img-author %} 
+        {% if page.header-img-author %}
             by
             {% if page.header-img-author-link %} <a href="{{page.header-img-author-link}}">{{page.header-img-author}}</a> 
-            {% else %} {{page.header-img-author}} 
-            {% endif %} 
+            {% else %} {{page.header-img-author}}
+            {% endif %}
         {% endif %}
         {% if page.header-img-license %}
             used under license 
             {% if page.header-img-license-link %} <a href="{{page.header-img-license-link}}">{{page.header-img-license}}</a> 
-            {% else %} {{page.header-img-license}} 
-            {% endif %} 
+            {% else %} {{page.header-img-license}}
+            {% endif %}
         {% endif %}
         </p>
     </div>
-    {% if site.share_enabled %}
+    {% if site.share_enabled == 1 %}
         {% include share.html %}
     {% endif %}
     <div class="container">
         <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-date">
+                Publication date: {{ page.date | date_to_long_string }}.
+            </div>
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-				{{ content }}
-
+                {{ content }}
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-date">
+                Publication date: {{ page.date | date_to_long_string }}.
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <hr>
-                {% if site.share_enabled %}
+                {% if site.share_enabled == 1 %}
                     {% include share.html %}
                 {% endif %}
                 <ul class="pager">
@@ -70,7 +76,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
             </div>
         </div>
     </div>
