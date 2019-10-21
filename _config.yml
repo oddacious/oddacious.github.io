@@ -19,6 +19,7 @@ permalink: /:title
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","mail","contact.html"]
 include: [".htaccess"]
+plugins: [jekyll-paginate]
 
 gems:
     - jekyll-sitemap

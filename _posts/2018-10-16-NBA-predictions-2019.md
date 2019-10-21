@@ -8,13 +8,13 @@ description: "A lot of these teams are really dragged down by having a few weak 
 tags:       ["basketball"]
 date:       2018-10-16 12:00:00
 author:     "RDJ"
-header-img: "img/arena_scene.jpg"
-header-img-title: "Arena"
-header-img-link: "https://www.flickr.com/photos/bartb_pt/2289459378/"
-header-img-author: "bartb_pt"
-header-img-author-link: "https://www.flickr.com/photos/bartb_pt/"
-header-img-license: "CC BY-NC-ND"
-header-img-license-link: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
+header-img: "img/baller.jpg"
+header-img-title: "Baller"
+header-img-link: "https://www.flickr.com/photos/guiseiz/8045463232/"
+header-img-author: "Gul Selz"
+header-img-author-link: "https://www.flickr.com/photos/guiseiz/"
+header-img-license: "CC BY-SA"
+header-img-license-link: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
 [Last year]: {{ site.baseurl }}/NBA-predictions-2018
