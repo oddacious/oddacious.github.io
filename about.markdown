@@ -32,8 +32,6 @@ For a long time I've resisted the urge to publish my thoughts, work, and hobbies
 
 For the most part I still live by that. However, sharing has its advantages. I can get useful feedback and learn new things. I can keep track of what I've worked on. I can be pushed to polish my work before putting it out there for everyone to criticize. In the past few years I've let work take most of my intellectual energy; I want to remember that I have other things to work on too. Perhaps some of what I've done can even be useful for other people.
 
-I'm not sure yet what I'll do with this space. I want to start with a few pieces on my hockey pool analytics, because I'm having fun with that. After that I might get into my basketball modeling.
-
 ---
 
 This site is writen using [Jekyll][Jekyll] with the [Jekyll version][Jekyll version] of the [Clean Blog][Clean Blog] theme and hosted on [Github Pages][Github Pages]. I chose this arrangement because it gave me control over content and presentation, combined with ease of use.
@@ -42,9 +40,9 @@ This site is writen using [Jekyll][Jekyll] with the [Jekyll version][Jekyll vers
 Photographs on the main pages are my own, and are from:
 
 
-* **Home**: The boardwalk along Barbados' southwest coast, in Hastings
+* **Home**: Point Sur off of California's coast, from Highway 1
 * **Articles**: The Three Sisters in Australia's Blue Mountains. After this photo I hiked around them and down into the
-* **Snippets**: Point Sur off of California's coast, from Highway 1
+* **Snippets**: The boardwalk along Barbados' southwest coast, in Hastings
 * **Knowledge**: A garden in the middle of Tokyo
 * **About**: Meal with friends on a patio in Lisbon, while we looked over the city at the end of St. Anthony's festival
 

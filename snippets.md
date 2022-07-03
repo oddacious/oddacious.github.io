@@ -2,7 +2,7 @@
 layout: page
 title: "Snippets"
 description: "Short thoughts"
-header-img: "img/Big_Sur.jpg"
+header-img: img/barbados.jpg
 order: 2 
 ---
 

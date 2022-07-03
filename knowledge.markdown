@@ -54,6 +54,7 @@ government.
 |------------------------------------------------------------------------|-----------------------------------------------------|-------|
 | Seeing like a State                                                    | James C. Scott                                      | Book  |
 | Poor Economics                                                         | Abhijit V. Banerjee and Esther Duflo                | Book  |
+| Empire of Cotton: A Global History                                     | Sven Beckert                                        | Book  |
 | The Party: The Secret World of China's Communist Leaders               | Richard McGregor                                    | Book  |
 | Why Nations Fail                                                       | Daron Acemoglu and James A. Robinson                | Book  |
 | A Randomized Experimental Study of Censorship in China                 | Gary King, Jennifer Pan, and Margaret E. Roberts    | Paper |
@@ -77,15 +78,18 @@ truth. These papers are all great reads.
 There are many other great references along these lines, but there is something in all of these that I don't want to
 forget about.
 
-| Title                                                                                   | Author                               | Type  |
-|-----------------------------------------------------------------------------------------|--------------------------------------|-------|
-| Giraffe: Using Deep Reinforcement Learning to Play Chess                                | Matthew Lai                          | Paper |
-| Estimation and Accuracy after Model Selection                                           | Bradley Efron                        | Paper |
-| Local Versus Global Models for Classification Problems: Fitting Models Where it Matters | David J. Hand and Veronica Vinciotti | Paper |
-| Variable Selection in Data Mining: Building a Predictive Model for Bankruptcy           | Dean P. Foster and Robert A. Stine   | Paper |
-| Greedy Function Approximation: A Gradient Boosting Machine                              | Jerome H. Friedman                   | Paper |
-| P values: What they and what they are not                                               | Mark J. Schervish                    | Paper |
-| A Survey of Cross-Validation Procedures for Model Selection                             | Sylvan Arlot                         | Paper |
+| Title                                                                                   | Author                                             | Type  |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------|-------|
+| Machine Learning                                                                        | Thomas Mitchell                                    | Book  |
+| Deep Learning with Python                                                               | François Chollet                                   | Book  |
+| Deep Learning                                                                           | Ian Goodfellow, Yoshua Bengio, and Aaron Courville | Book  |
+| Giraffe: Using Deep Reinforcement Learning to Play Chess                                | Matthew Lai                                        | Paper |
+| Estimation and Accuracy after Model Selection                                           | Bradley Efron                                      | Paper |
+| Local Versus Global Models for Classification Problems: Fitting Models Where it Matters | David J. Hand and Veronica Vinciotti               | Paper |
+| Variable Selection in Data Mining: Building a Predictive Model for Bankruptcy           | Dean P. Foster and Robert A. Stine                 | Paper |
+| Greedy Function Approximation: A Gradient Boosting Machine                              | Jerome H. Friedman                                 | Paper |
+| P values: What they and what they are not                                               | Mark J. Schervish                                  | Paper |
+| A Survey of Cross-Validation Procedures for Model Selection                             | Sylvan Arlot                                       | Paper |
 
 ## Economic Methods
 
